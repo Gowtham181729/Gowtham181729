@@ -8,7 +8,7 @@
 Gowtham181729/Gowtham181729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header]([https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png](https://www.freecodecamp.org/news/content/images/size/w2000/2021/08/chris-ried-ieic5Tq8YMk-unsplash.jpg) "Header")](https://some-url.dev/)
 
 <!-- <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px"> -->
 
